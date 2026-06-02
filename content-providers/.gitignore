@@ -1,6 +1,8 @@
+# Dependencies
 node_modules/
+
+# Build output
 dist/
-coverage/
 *.tsbuildinfo
 
 # Yarn Berry (Corepack-managed, node-modules linker + global cache)
